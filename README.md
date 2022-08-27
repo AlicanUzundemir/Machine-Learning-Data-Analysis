@@ -1,4 +1,4 @@
-# Machine-Learning-Data-Analyze
+# Machine-Learning-Data-Analysis
 
  Let's include the libraries that are suitable for the model we will build into the project
  
